@@ -56,6 +56,7 @@ Relation extraction identifies and categorizes semantic relationships between na
    ```
    pip install nltk torch transformers imblearn scipy sklearn
    ```
+4. Regarding the model_parameters, please reaching out to me to get the link to download the files
 
 ## Usage
 
